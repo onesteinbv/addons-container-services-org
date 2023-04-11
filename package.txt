@@ -1,10 +1,10 @@
-account_reconciliation_widget
-account_statement_import_camt
-account_statement_import_online
-account_statement_import_online_ponto
-helpdesk_mgmt
-helpdesk_mgmt_project
-hr_timesheet_sheet
+account-reconcile/account_reconciliation_widget
+bank-statement-import/account_statement_import_camt
+bank-statement-import/account_statement_import_online
+bank-statement-import/account_statement_import_online_ponto
+helpdesk/helpdesk_mgmt
+helpdesk/helpdesk_mgmt_project
+timesheet/hr_timesheet_sheet
 mis-builder/mis_builder
 mis-builder/mis_builder_budget
 web_widget_x2many_2d_matrix

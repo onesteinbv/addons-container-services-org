@@ -9,3 +9,4 @@ mis-builder/mis_builder
 mis-builder/mis_builder_budget
 web_widget_x2many_2d_matrix
 web/web_responsive
+server-tools/base_fontawesome

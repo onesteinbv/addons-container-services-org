@@ -12,3 +12,10 @@ web/web_responsive
 server-tools/base_fontawesome
 reporting-engine/report_xlsx
 server-ux/date_range
+web/web_widget_dropdown_dynamic
+addons-generic/mass_mailing_help
+website/website_odoo_debranding
+addons-pre-oca/website_matomo_tag_manager
+partner-contact/partner_external_map
+addons-generic/web_editor_fontawesome
+bank-statement-import/account_statement_import

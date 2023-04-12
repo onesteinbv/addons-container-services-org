@@ -1,10 +1,13 @@
+15-backport-web_help/web_help
 account-reconcile/account_reconciliation_widget
 addons-generic/mass_mailing_help
 addons-generic/mass_mailing_membership_committee
 addons-generic/mass_mailing_membership_section
 addons-generic/web_editor_fontawesome
+addons-pre-oca/mass_mailing_partner
 addons-pre-oca/website_matomo_tag_manager
 bank-statement-import/account_statement_import
+bank-statement-import/account_statement_import_base
 bank-statement-import/account_statement_import_camt
 bank-statement-import/account_statement_import_online
 bank-statement-import/account_statement_import_online_ponto
@@ -19,7 +22,7 @@ server-ux/date_range
 ./services_org_base
 ./services_org_install
 timesheet/hr_timesheet_sheet
-website/setup/website_odoo_debranding
+website/website_odoo_debranding
 web/web_responsive
 web/web_widget_dropdown_dynamic
-web_widget_x2many_2d_matrix
+web/web_widget_x2many_2d_matrix

@@ -1,4 +1,5 @@
 account-reconcile/account_reconciliation_widget
+addons-customer-nextcloud/nextcloud_odoo_sync
 addons-generic/mass_mailing_help
 addons-generic/web_editor_fontawesome
 addons-pre-oca/website_matomo_tag_manager
@@ -6,6 +7,7 @@ bank-statement-import/account_statement_import
 bank-statement-import/account_statement_import_camt
 bank-statement-import/account_statement_import_online
 bank-statement-import/account_statement_import_online_ponto
+design-themes/*
 helpdesk/helpdesk_mgmt
 helpdesk/helpdesk_mgmt_project
 mis-builder/mis_builder

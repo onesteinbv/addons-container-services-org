@@ -125,7 +125,7 @@
         #website_links',
         'website_mail',
         'website_mass_mailing',
-        'website_membership',
+        #website_membership',
         'website_partner',
         'website_payment',
         'website_sale',
@@ -152,8 +152,8 @@
 
         # Onestein
         #base_municipality',
-        'mass_mailing_membership_committee',
-        'mass_mailing_membership_section',
+        #mass_mailing_membership_committee',
+        #mass_mailing_membership_section',
         'mass_mailing_help',
         #membership_committee',
         #membership_hr',

@@ -1,9 +1,14 @@
+15-backport-web_help/web_help
 account-reconcile/account_reconciliation_widget
 addons-customer-nextcloud/nextcloud_odoo_sync
 addons-generic/mass_mailing_help
+addons-generic/mass_mailing_membership_committee
+addons-generic/mass_mailing_membership_section
 addons-generic/web_editor_fontawesome
+addons-pre-oca/mass_mailing_partner
 addons-pre-oca/website_matomo_tag_manager
 bank-statement-import/account_statement_import
+bank-statement-import/account_statement_import_base
 bank-statement-import/account_statement_import_camt
 bank-statement-import/account_statement_import_online
 bank-statement-import/account_statement_import_online_ponto
@@ -17,8 +22,10 @@ reporting-engine/report_xlsx
 reporting-engine/report_qweb_pdf_watermark
 server-tools/base_fontawesome
 server-ux/date_range
+./services_org_base
+./services_org_install
 timesheet/hr_timesheet_sheet
-web_widget_x2many_2d_matrix
+website/website_odoo_debranding
 web/web_responsive
 web/web_widget_dropdown_dynamic
-website/website_odoo_debranding
+web/web_widget_x2many_2d_matrix

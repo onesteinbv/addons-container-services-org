@@ -47,6 +47,8 @@
         #event_sms',
         'fetchmail',
         'google_recaptcha',
+        'helpdesk_mgmt',
+        'helpdesk_mgmt_project',
         'hr',
         'hr_contract',
         'hr_expense',
@@ -68,6 +70,8 @@
         #mass_mailing_event_track',
         'mass_mailing_sale',
         #membership',
+        'mis_builder',
+        'mis_builder_budget',
         'partner_autocomplete',
         'payment',
         #payment_test',
@@ -84,6 +88,7 @@
         'purchase',
         'purchase_stock',
         'rating',
+        'report_xlsx',
         'resource',
         'sale',
         #sale_coupon',
@@ -146,6 +151,7 @@
         'report_qweb_pdf_watermark'
         'web_widget_dropdown_dynamic',
         'web_responsive',
+        'web_widget_x2many_2d_matrix',
         'website_odoo_debranding',
 
         # Custom

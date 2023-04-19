@@ -22,3 +22,35 @@
 	path = web
 	url = git@github.com:OCA/web.git
 	branch = 15.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 15.0
+[submodule "addons-generic"]
+	path = addons-generic
+	url = git@github.com:onesteinbv/addons-generic.git
+	branch = 15.0
+[submodule "website"]
+	path = website
+	url = git@github.com:OCA/website.git
+	branch = 15.0
+[submodule "addons-pre-oca"]
+	path = addons-pre-oca
+	url = git@github.com:onesteinbv/addons-pre-oca.git
+	branch = 15.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 15.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 15.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 15.0
+[submodule "15-backport-web_help"]
+	path = 15-backport-web_help
+	url = git@github.com:tarteo/web.git
+	branch = 15-backport-web_help

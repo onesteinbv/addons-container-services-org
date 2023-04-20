@@ -62,3 +62,51 @@
 	path = addons-customer-nextcloud
 	url = git@github.com:onesteinbv/addons-customer-nextcloud.git
 	branch = staging
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 15.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 15.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 15.0
+[submodule "server-brand"]
+	path = server-brand
+	url = git@github.com:OCA/server-brand.git
+	branch = 15.0
+[submodule "contract"]
+	path = contract
+	url = git@github.com:OCA/contract.git
+	branch = 15.0
+[submodule "bank-payment"]
+	path = bank-payment
+	url = git@github.com:OCA/bank-payment.git
+	branch = 15.0
+[submodule "credit-control"]
+	path = credit-control
+	url = git@github.com:OCA/credit-control.git
+	branch = 15.0
+[submodule "currency"]
+	path = currency
+	url = git@github.com:OCA/currency.git
+	branch = 15.0
+[submodule "l10n-netherlands"]
+	path = l10n-netherlands
+	url = git@github.com:OCA/l10n-netherlands.git
+	branch = 15.0
+[submodule "social"]
+	path = social
+	url = git@github.com:OCA/social.git
+	branch = 15.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 15.0
+[submodule "addons-third-party"]
+	path = addons-third-party
+	url = git@github.com:onesteinbv/addons-third-party.git
+	branch = 15.0

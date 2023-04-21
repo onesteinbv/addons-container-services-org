@@ -71,7 +71,7 @@
         'mail_bot_hr',
         'mass_mailing',
         'mass_mailing_crm',
-        'mass_mailing_event',
+        #mass_mailing_event',
         'mass_mailing_sale',
         #membership',
         'mis_builder',
@@ -207,7 +207,7 @@
         #community_org_base',
 
         # Onestein
-        #base_municipality',
+        #base_municipality'
         #mass_mailing_membership_committee',
         #mass_mailing_membership_section',
         'mass_mailing_help',
@@ -216,6 +216,7 @@
         #membership_hr_recruitment',
         #membership_section',
         #project_role_members',
+        'nextcloud_odoo_sync',
         'web_editor_fontawesome',
         #website_event_external_map',
         #website_event_share_filter_option',
@@ -256,6 +257,9 @@
         # 3rd-Party
         'mollie_account_sync',
         'payment_mollie_official',
+        
+        #odoo
+        'design-themes',
 
     ],
     'data': [],

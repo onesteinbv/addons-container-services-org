@@ -257,6 +257,9 @@
         # 3rd-Party
         'mollie_account_sync',
         'payment_mollie_official',
+        
+        #odoo
+        'design-themes',
 
     ],
     'data': [],

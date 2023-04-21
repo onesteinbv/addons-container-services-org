@@ -36,6 +36,8 @@ bank-payment/account_banking_pain_base
 bank-payment/account_banking_sepa_credit_transfer
 bank-payment/account_banking_sepa_direct_debit
 bank-payment/account_payment_sale
+bank-payment/account_payment_partner
+bank-payment/account_payment_mode
 bank-statement-import/account_statement_import
 bank-statement-import/account_statement_import_base
 bank-statement-import/account_statement_import_camt
@@ -64,9 +66,12 @@ server-brand/remove_odoo_enterprise
 server-tools/base_fontawesome
 server-tools/auditlog
 server-ux/date_range
+server-ux/base_tier_validation_forward
+server-ux/base_tier_validation
 ./services_org_base
 ./services_org_install
 social/mail_tracking
+stock-logistics-warehouse/account_move_line_stock_info
 timesheet/hr_timesheet_sheet
 website/website_odoo_debranding
 web/web_no_bubble

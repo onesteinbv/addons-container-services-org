@@ -41,6 +41,8 @@ bank-statement-import/account_statement_import_base
 bank-statement-import/account_statement_import_camt
 bank-statement-import/account_statement_import_online
 bank-statement-import/account_statement_import_online_ponto
+contract/contract
+contract/contract_payment_mode
 credit-control/account_invoice_overdue_reminder
 currency/currency_rate_update
 design-themes/*

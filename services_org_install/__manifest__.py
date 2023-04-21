@@ -71,7 +71,7 @@
         'mail_bot_hr',
         'mass_mailing',
         'mass_mailing_crm',
-        'mass_mailing_event',
+        #mass_mailing_event',
         'mass_mailing_sale',
         #membership',
         'mis_builder',

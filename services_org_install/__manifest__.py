@@ -258,7 +258,9 @@
         'mollie_account_sync',
         'payment_mollie_official',
         'l10n_nl_rgs',
-        
+
+        # custom
+        'services_org_base',
 
     ],
     'data': [],

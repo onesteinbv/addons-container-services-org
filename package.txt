@@ -38,9 +38,16 @@ bank-payment/account_banking_sepa_direct_debit
 bank-payment/account_payment_sale
 bank-payment/account_payment_partner
 bank-payment/account_payment_mode
+bank-payment/account_banking_mandate
+bank-payment/account_banking_mandate_contact
+bank-payment/account_banking_mandate_sale
+bank-payment/account_payment_order
+bank-payment/account_payment_purchase_stock
+bank-payment/account_payment_purchase
 bank-statement-import/account_statement_import
 bank-statement-import/account_statement_import_base
 bank-statement-import/account_statement_import_camt
+bank-statement-import/account_statement_import_camt54
 bank-statement-import/account_statement_import_online
 bank-statement-import/account_statement_import_online_ponto
 contract/contract
@@ -70,8 +77,10 @@ server-tools/auditlog
 server-ux/date_range
 server-ux/base_tier_validation_forward
 server-ux/base_tier_validation
+server-ux/base_tier_validation_formula
 ./services_org_base
 ./services_org_install
+./l10n_nl_rgs
 social/mail_tracking
 stock-logistics-warehouse/account_move_line_stock_info
 timesheet/hr_timesheet_sheet

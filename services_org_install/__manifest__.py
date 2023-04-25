@@ -17,7 +17,7 @@
         'account_payment',
         'account_qr_code_sepa',
         'analytic',
-        'association',
+        #association',
         'attachment_indexation',
         'auth_signup',
         'auth_totp',

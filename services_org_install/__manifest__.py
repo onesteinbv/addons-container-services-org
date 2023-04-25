@@ -17,7 +17,7 @@
         'account_payment',
         'account_qr_code_sepa',
         'analytic',
-        'association',
+        #association',
         'attachment_indexation',
         'auth_signup',
         'auth_totp',
@@ -258,6 +258,7 @@
 
         # 3rd-Party
         'mollie_account_sync',
+        'mollie_subscription_ept',
         'payment_mollie_official',
         'l10n_nl_rgs',
 

@@ -65,6 +65,7 @@ mis-builder/mis_builder
 mis-builder/mis_builder_budget
 partner-contact/partner_external_map
 product-attribute/product_category_product_link
+project/project_timeline
 reporting-engine/report_qr
 reporting-engine/report_qweb_parameter
 reporting-engine/report_wkhtmltopdf_param
@@ -90,3 +91,4 @@ web/web_responsive
 web/web_search_with_and
 web/web_widget_dropdown_dynamic
 web/web_widget_x2many_2d_matrix
+web/web_timeline

@@ -189,6 +189,7 @@
         'mail_tracking',
         'mass_mailing_partner',
         'partner_external_map',
+        'project_timeline',
         #project_role',
         'report_qr',
         'report_qweb_parameter',
@@ -201,6 +202,7 @@
         'web_no_bubble',
         'web_search_with_and',
         'web_widget_x2many_2d_matrix',
+        'web_timeline',
         'website_odoo_debranding',
 
         # Custom

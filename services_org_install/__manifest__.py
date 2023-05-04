@@ -15,6 +15,7 @@
         'account_edi_facturx',
         'account_edi_ubl_cii',
         'account_payment',
+        'account_sale_timesheet',
         'account_qr_code_sepa',
         'analytic',
         #association',
@@ -87,6 +88,7 @@
         'product_margin',
         'project',
         'project_account',
+        'project_timesheet_holidays',
         'project_hr_expense',
         'project_purchase',
         'purchase',
@@ -145,6 +147,7 @@
         'website_sms',
 
         # Community
+        'account_credit_control',
         "account_invoice_overdue_reminder",
         'account_reconciliation_widget',
         'account_usability',

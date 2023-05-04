@@ -1,5 +1,4 @@
 15-backport-web_help/web_help
-account-reconcile/account_reconciliation_widget
 account-financial-reporting/account_financial_report
 account-financial-tools/account_asset_management
 account-financial-tools/account_asset_management_menu
@@ -53,6 +52,7 @@ bank-statement-import/account_statement_import_online
 bank-statement-import/account_statement_import_online_ponto
 contract/contract
 contract/contract_payment_mode
+credit-control/account_credit_control
 credit-control/account_invoice_overdue_reminder
 currency/currency_rate_update
 design-themes/*

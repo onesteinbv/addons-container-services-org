@@ -155,6 +155,8 @@
         'account_asset_management',
         'account_asset_management_menu',
         'account_balance_line',
+        'account_banking_sepa_credit_transfer',
+        'account_banking_sepa_direct_debit',
         'account_fiscal_position_vat_check',
         'account_fiscal_year',
         'account_invoice_constraint_chronology',
@@ -215,6 +217,7 @@
         #base_municipality'
         #mass_mailing_membership_committee',
         #mass_mailing_membership_section',
+        'payment_mollie_fix',
         'mass_mailing_help',
         #membership_committee',
         #membership_hr',

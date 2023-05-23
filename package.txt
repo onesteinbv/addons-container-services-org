@@ -30,6 +30,7 @@ addons-generic/mass_mailing_help
 addons-generic/mass_mailing_membership_committee
 addons-generic/mass_mailing_membership_section
 addons-generic/web_editor_fontawesome
+addons-generic/payment_mollie_fix
 addons-pre-oca/mass_mailing_partner
 addons-pre-oca/website_matomo_tag_manager
 bank-payment/account_banking_pain_base
@@ -72,6 +73,7 @@ reporting-engine/report_qweb_parameter
 reporting-engine/report_wkhtmltopdf_param
 reporting-engine/report_xlsx
 reporting-engine/report_xlsx_helper
+server-backend/base_user_role
 server-brand/disable_odoo_online
 server-brand/remove_odoo_enterprise
 server-tools/base_fontawesome

@@ -118,3 +118,7 @@
 	path = project
 	url = https://github.com/OCA/project.git
 	branch = 15.0
+[submodule "server-backend"]
+	path = server-backend
+	url = git@github.com:OCA/server-backend.git
+	branch = 15.0

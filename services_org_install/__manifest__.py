@@ -183,6 +183,7 @@
         'account_statement_import_online_ponto',
         'auditlog',
         'base_fontawesome',
+        'base_user_role',
         'currency_rate_update',
         'date_range',
         'disable_odoo_online',
